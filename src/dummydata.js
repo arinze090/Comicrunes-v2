@@ -1,0 +1,58 @@
+export const comicData = [
+  {
+    id: 1,
+    name: "Arinze Arinze Arinze",
+    image: require("./components/images/comic.png"),
+    rating: "3",
+    publisher: "Yes",
+  },
+  {
+    id: 2,
+    name: "Arinze",
+    image: require("./components/images/comic2.png"),
+    rating: "3",
+    publisher: "No",
+  },
+  {
+    id: 3,
+    name: "Arinze",
+    image: require("./components/images/comic3.png"),
+    rating: "3",
+    publisher: "Yes",
+  },
+  {
+    id: 4,
+    name: "Arinze",
+    image: require("./components/images/comic.png"),
+    rating: "3",
+    publisher: "Yes",
+  },
+  {
+    id: 5,
+    name: "Arinze",
+    image: require("./components/images/comic.png"),
+    rating: "3",
+    publisher: "No",
+  },
+  {
+    id: 3,
+    name: "Arinze",
+    image: require("./components/images/comic3.png"),
+    rating: "3",
+    publisher: "No",
+  },
+  {
+    id: 4,
+    name: "Arinze",
+    image: require("./components/images/comic.png"),
+    rating: "3",
+    publisher: "No",
+  },
+  {
+    id: 5,
+    name: "Arinze",
+    image: require("./components/images/comic.png"),
+    rating: "3",
+    publisher: "No",
+  },
+];
